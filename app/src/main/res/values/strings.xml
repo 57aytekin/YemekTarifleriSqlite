@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YemekTarifleri</string>
+    <string name="pisirme_suresi">Pişirme Süresi</string>
+    <string name="hazirlama_suresi">Hazırlama Süresi</string>
+    <string name="kisi_sayisi">Kişi Sayısı</string>
+    <string name="alerjenler">Alerjenler</string>
+    <string name="malzemeler">Malzemeler</string>
+
+</resources>
